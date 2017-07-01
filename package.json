@@ -1,0 +1,31 @@
+{
+  "name": "egghead-preact",
+  "version": "1.0.0",
+  "description": "egghead preact coursework storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests lol\"",
+    "lint": "eslint --fix .",
+    "precommit": "yarn test && yarn lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/one19/egghead-preact.git"
+  },
+  "keywords": [
+    "preact",
+    "webpack"
+  ],
+  "author": "Drew Showalter <maelstroswim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one19/egghead-preact/issues"
+  },
+  "homepage": "https://github.com/one19/egghead-preact#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-shortlyster": "^2.2.0",
+    "husky": "^0.14.2"
+  }
+}

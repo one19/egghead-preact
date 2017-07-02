@@ -17,6 +17,8 @@ module.exports = {
         options: {
           presets: ['env'],
           plugins: [
+            'syntax-flow',
+            'transform-flow-strip-types',
             ['transform-react-jsx', { pragma: 'h' }]
           ]
         }

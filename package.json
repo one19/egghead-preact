@@ -39,6 +39,8 @@
     "webpack-dev-server": "^2.5.0"
   },
   "dependencies": {
-    "preact": "^8.1.0"
+    "preact": "^8.1.0",
+    "styled-components": "^2.1.0",
+    "tinycolor2": "^1.4.1"
   }
 }

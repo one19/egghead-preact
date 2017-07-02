@@ -25,6 +25,11 @@ module.exports = {
       }
     ]
   },
+  resolve: {
+    alias: {
+      react: 'preact'
+    }
+  },
   // sourcemaps
   devtool: 'source-map',
   // server

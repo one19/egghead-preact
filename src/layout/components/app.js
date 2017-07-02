@@ -1,8 +1,11 @@
 import { h } from 'preact';
+import Layout from './layout';
+
+// React = preact;
+// React.createElement = preact.h;
+// React.PropTypes = { func:{} };
 
 export default () =>
-  (
-    <div className="app">
-      <h1>Hello world!</h1>
-    </div>
-  );
+  <div className="app">
+    <Layout />
+  </div>;

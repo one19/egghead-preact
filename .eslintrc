@@ -3,5 +3,16 @@
     "extends": "shortlyster",
     "plugins": [
         "react"
-    ]
+    ],
+    "settings": {
+        "react": {
+            "pragma": "h"
+        }
+    },
+    "rules": {
+        "react/jsx-filename-extension": "off"
+    },
+    "globals": {
+        "document": "true"
+    }
 }

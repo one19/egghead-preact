@@ -4,7 +4,8 @@
   "description": "egghead preact coursework storage",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline",
+    "start": "yarn style-compile && webpack-dev-server --inline",
+    "style-compile": "concisecss compile src/source.scss src/styles.css",
     "test": "echo \"no tests lol\"",
     "lint": "eslint --fix .",
     "precommit": "yarn test && yarn lint"
@@ -39,6 +40,7 @@
     "webpack-dev-server": "^2.5.0"
   },
   "dependencies": {
+    "concise.css": "^4.1.2",
     "preact": "^8.1.0",
     "styled-components": "^2.1.0",
     "tinycolor2": "^1.4.1"

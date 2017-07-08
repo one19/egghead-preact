@@ -3,7 +3,7 @@ import { black } from '../styles';
 
 export default styled.p`
   font-family: Arial;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   margin: 0;
   color: ${black};
   display: inline-block;

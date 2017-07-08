@@ -2,8 +2,7 @@ import styled from 'styled-components';
 import { black } from '../styles';
 
 export default styled.h3`
-  font-family: Arial;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   margin: 0;
   padding: 0 0 5px 0;
   color: ${black};

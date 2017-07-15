@@ -15,7 +15,7 @@ module.exports = {
         test: /\.jsx?/i,
         loader: 'babel-loader',
         options: {
-          presets: ['env'],
+          presets: ['env', 'stage-2'],
           plugins: [
             'syntax-flow',
             'transform-flow-strip-types',

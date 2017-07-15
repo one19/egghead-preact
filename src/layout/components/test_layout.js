@@ -11,23 +11,27 @@ export default () =>
     <Content>
       <SubTitle>Some content:</SubTitle>
       <Paragraph>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea eius mollitia
-         asperiores, accusamus animi corporis assumenda explicabo, doloribus officia laudantium.
-         Tempora blanditiis, accusantium nesciunt maxime praesentium, autem pariatur amet!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea
+        eius mollitia asperiores, accusamus animi corporis assumenda explicabo,
+        doloribus officia laudantium. Tempora blanditiis, accusantium nesciunt
+        maxime praesentium, autem pariatur amet!
       </Paragraph>
       <Quote>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea eius mollitia
-         asperiores, accusamus animi corporis assumenda explicabo, doloribus officia laudantium.
-         Tempora blanditiis, accusantium nesciunt maxime praesentium, autem pariatur amet!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea
+        eius mollitia asperiores, accusamus animi corporis assumenda explicabo,
+        doloribus officia laudantium. Tempora blanditiis, accusantium nesciunt
+        maxime praesentium, autem pariatur amet!
       </Quote>
       <SubTitle>Some more content:</SubTitle>
       <Paragraph>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea eius mollitia
-         asperiores, accusamus animi corporis assumenda explicabo, doloribus officia laudantium.
-         Tempora blanditiis, accusantium nesciunt maxime praesentium, autem pariatur amet!
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea eius mollitia
-         asperiores, accusamus animi corporis assumenda explicabo, doloribus officia laudantium.
-         Tempora blanditiis, accusantium nesciunt maxime praesentium, autem pariatur amet!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ea
+        eius mollitia asperiores, accusamus animi corporis assumenda explicabo,
+        doloribus officia laudantium. Tempora blanditiis, accusantium nesciunt
+        maxime praesentium, autem pariatur amet! Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit. Deleniti ea eius mollitia asperiores,
+        accusamus animi corporis assumenda explicabo, doloribus officia
+        laudantium. Tempora blanditiis, accusantium nesciunt maxime praesentium,
+        autem pariatur amet!
       </Paragraph>
       <SubTitle>Closing statement.</SubTitle>
     </Content>
